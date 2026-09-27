@@ -1,0 +1,1 @@
+You no longer have to specify a user for the SCP style git URL: it will default to the platform's configured user (typically "git")
